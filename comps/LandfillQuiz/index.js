@@ -48,7 +48,7 @@ const Text = styled.p `
 `
 
 
-const Landfillquiz = ({
+const LandfillQuiz = ({
     onGarbageClick=()=>{},
     onRecycleClick=()=>{},
     onCompostClick=()=>{},
@@ -63,4 +63,4 @@ const Landfillquiz = ({
     )
 }
 
-export default Landfillquiz;
+export default LandfillQuiz;
